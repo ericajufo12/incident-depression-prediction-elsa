@@ -151,7 +151,7 @@ incident-depression-prediction-elsa/
 
 ## Author
 
-**Uche Dumzo-Ajufo**
+**Eric Ajufo**
 
 MSc Data Science  
 University of Sheffield
